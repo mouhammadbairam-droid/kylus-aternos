@@ -4,8 +4,8 @@
   },
 
   "server": {
-    "ip": "IP Adresi",
-    "port": 25565,
+    "ip": "Frends1smp.aternos.me",
+    "port": 16819,
     "version": "1.16.5"
   },
 
